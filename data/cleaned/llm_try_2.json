@@ -1,0 +1,4222 @@
+[
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": null,
+    "frag_name": "Queening",
+    "size": 100,
+    "price": 190,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": null,
+    "frag_name": "Lionara (engraved)",
+    "size": null,
+    "price": 170,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Amyris Extrait",
+    "size": null,
+    "price": 240,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "A la Rose",
+    "size": null,
+    "price": 150,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": null,
+    "frag_name": "Beach Walk",
+    "size": null,
+    "price": 65,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": null,
+    "frag_name": "Nitro Noir",
+    "size": null,
+    "price": 40,
+    "fill_percent": 50,
+    "status": "LISTED"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": null,
+    "frag_name": "Wulong Cha",
+    "size": 50,
+    "price": 95,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": "Creed",
+    "frag_name": "Aventus (sought batch)",
+    "size": null,
+    "price": 180,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": "Creed",
+    "frag_name": "Aventus for Her",
+    "size": null,
+    "price": 90,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": null,
+    "frag_name": "Matcha 26",
+    "size": null,
+    "price": 160,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": null,
+    "frag_name": "One Umbrella for Two",
+    "size": 50,
+    "price": 180,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": "Dior",
+    "frag_name": "Sauvage Parfum",
+    "size": null,
+    "price": 105,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": "Dior",
+    "frag_name": "Sauvage Parfum",
+    "size": null,
+    "price": 105,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": "Amouage",
+    "frag_name": "Contralto (test sprays missing)",
+    "size": null,
+    "price": 145,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": null,
+    "frag_name": "Acento",
+    "size": null,
+    "price": 90,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": "Initio",
+    "frag_name": "INITO 90ML testers",
+    "size": 90,
+    "price": null,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": "Initio",
+    "frag_name": "Oud For Greatness Neo",
+    "size": null,
+    "price": 145,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": "Initio",
+    "frag_name": "High Frequency",
+    "size": null,
+    "price": 135,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Calm-Durian-6553",
+    "flair": "Legacy:0/Buys:1/Sales:22",
+    "brand": null,
+    "frag_name": "Narcotic Delight",
+    "size": null,
+    "price": 160,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Boring_Elevator3817",
+    "flair": "Legacy:0/Buys:1/Sales:0",
+    "brand": "Louis Vuitton",
+    "frag_name": null,
+    "size": null,
+    "price": 400,
+    "fill_percent": 95,
+    "status": "LISTED"
+  },
+  {
+    "author": "leewulonghike16",
+    "flair": "Legacy:0/Buys:5/Sales:6",
+    "brand": "Xerjoff",
+    "frag_name": "Alexandria 3",
+    "size": 15,
+    "price": 55,
+    "fill_percent": 93.33,
+    "status": "LISTED"
+  },
+  {
+    "author": "leewulonghike16",
+    "flair": "Legacy:0/Buys:5/Sales:6",
+    "brand": "Xerjoff",
+    "frag_name": "Monkey Special",
+    "size": 50,
+    "price": 125,
+    "fill_percent": 98,
+    "status": "LISTED"
+  },
+  {
+    "author": "Baykes408",
+    "flair": "Legacy:0/Buys:0/Sales:2",
+    "brand": "Creed",
+    "frag_name": "Aventus F000558",
+    "size": 100,
+    "price": 180,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Baykes408",
+    "flair": "Legacy:0/Buys:0/Sales:2",
+    "brand": "Chanel",
+    "frag_name": "Bleu de Chanel EDP",
+    "size": 150,
+    "price": 135,
+    "fill_percent": 97,
+    "status": "SOLD"
+  },
+  {
+    "author": "Baykes408",
+    "flair": "Legacy:0/Buys:0/Sales:2",
+    "brand": "Tom Ford",
+    "frag_name": "Oud Wood",
+    "size": 100,
+    "price": 160,
+    "fill_percent": 98,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Yessahblessah37",
+    "flair": "Legacy:0/Buys:1/Sales:27",
+    "brand": null,
+    "frag_name": null,
+    "size": null,
+    "price": 760,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Hot-Response-6452",
+    "flair": "Legacy:0/Buys:15/Sales:15",
+    "brand": "Creed",
+    "frag_name": "Aventus",
+    "size": 89,
+    "price": 185,
+    "fill_percent": 95,
+    "status": "LISTED"
+  },
+  {
+    "author": "Hot-Response-6452",
+    "flair": "Legacy:0/Buys:15/Sales:15",
+    "brand": "Creed",
+    "frag_name": "Aventus Cologne",
+    "size": 50,
+    "price": 105,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": "Invictus Aqua",
+    "size": 100,
+    "price": 35,
+    "fill_percent": 50,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Salvatore Ferragamo",
+    "frag_name": "Subtil",
+    "size": 100,
+    "price": 20,
+    "fill_percent": 40,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": "Pasha Noire",
+    "size": 100,
+    "price": 40,
+    "fill_percent": 75,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Givenchy",
+    "frag_name": "Gentleman EDP",
+    "size": 100,
+    "price": 50,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Burberry",
+    "frag_name": "Weekend",
+    "size": 100,
+    "price": 20,
+    "fill_percent": 60,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Bvlgari",
+    "frag_name": "Man Wood Essence",
+    "size": 100,
+    "price": 35,
+    "fill_percent": 85,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Chanel",
+    "frag_name": "Bleu de Chanel EDP",
+    "size": 100,
+    "price": 55,
+    "fill_percent": 40,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Armani",
+    "frag_name": "Stronger with you",
+    "size": 100,
+    "price": 35,
+    "fill_percent": 90,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Afnan",
+    "frag_name": "9am Dive",
+    "size": 100,
+    "price": 20,
+    "fill_percent": 95,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Armani",
+    "frag_name": "Code Profumo",
+    "size": 60,
+    "price": 80,
+    "fill_percent": 90,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Tom Ford",
+    "frag_name": "Noir Extreme",
+    "size": 100,
+    "price": 100,
+    "fill_percent": 98,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Tom Ford",
+    "frag_name": "Tobacco Vanille",
+    "size": 30,
+    "price": 100,
+    "fill_percent": 90,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Dior",
+    "frag_name": "Sauvage EDT",
+    "size": 60,
+    "price": 35,
+    "fill_percent": 50,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Zara",
+    "frag_name": "Spell caramel",
+    "size": 100,
+    "price": 25,
+    "fill_percent": 97,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": "Raees Noire",
+    "size": 100,
+    "price": 35,
+    "fill_percent": 98,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Initio",
+    "frag_name": "Oud for Greatness",
+    "size": 100,
+    "price": 35,
+    "fill_percent": 98,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Afnan",
+    "frag_name": "Rare Reef",
+    "size": 100,
+    "price": 25,
+    "fill_percent": 98,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Louis Vuitton",
+    "frag_name": "Pacific Chill",
+    "size": 100,
+    "price": 25,
+    "fill_percent": 98,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": "Where sun never sets",
+    "size": 34,
+    "price": 35,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": "Tom Ford",
+    "frag_name": "Soleil Blanc",
+    "size": 34,
+    "price": 35,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": "Le Prestige Royal",
+    "size": 100,
+    "price": 20,
+    "fill_percent": 98,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "parfumpapi",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": "Hibiscus Mahajad",
+    "size": 100,
+    "price": 20,
+    "fill_percent": 98,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "r_u_afraid",
+    "flair": "Legacy:0/Buys:3/Sales:1",
+    "brand": "Herm\u00e8s",
+    "frag_name": "Terre d\u2019Herm\u00e8s EDT",
+    "size": 50,
+    "price": 110,
+    "fill_percent": 95,
+    "status": "LISTED"
+  },
+  {
+    "author": "r_u_afraid",
+    "flair": "Legacy:0/Buys:3/Sales:1",
+    "brand": "Mancera",
+    "frag_name": "Cedrat Boise",
+    "size": 120,
+    "price": 110,
+    "fill_percent": 98,
+    "status": "LISTED"
+  },
+  {
+    "author": "r_u_afraid",
+    "flair": "Legacy:0/Buys:3/Sales:1",
+    "brand": "Jean Paul Gaultier",
+    "frag_name": "Scandal Homme Le Parfum Intense Refill (EDP)",
+    "size": 200,
+    "price": 110,
+    "fill_percent": 83,
+    "status": "LISTED"
+  },
+  {
+    "author": "asam11",
+    "flair": "Legacy:0/Buys:8/Sales:50",
+    "brand": "Amouage",
+    "frag_name": "Bracken Man",
+    "size": null,
+    "price": null,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "asam11",
+    "flair": "Legacy:0/Buys:8/Sales:50",
+    "brand": "Amouage",
+    "frag_name": "Imitation Man (Pre 2020)",
+    "size": null,
+    "price": null,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "asam11",
+    "flair": "Legacy:0/Buys:8/Sales:50",
+    "brand": "Xerjoff",
+    "frag_name": "Duran Duran Black Moonlight",
+    "size": null,
+    "price": null,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "DangerousKing1041",
+    "flair": "Legacy:0/Buys:1/Sales:6",
+    "brand": null,
+    "frag_name": "SDV",
+    "size": 100,
+    "price": 165,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "DangerousKing1041",
+    "flair": "Legacy:0/Buys:1/Sales:6",
+    "brand": "Byredo",
+    "frag_name": "Bal D\u2019Afrique Absolu",
+    "size": 50,
+    "price": 255,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "DangerousKing1041",
+    "flair": "Legacy:0/Buys:1/Sales:6",
+    "brand": null,
+    "frag_name": "Riviera Maya",
+    "size": 50,
+    "price": 185,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "DangerousKing1041",
+    "flair": "Legacy:0/Buys:1/Sales:6",
+    "brand": "Yves Saint Laurent",
+    "frag_name": "Y EDP",
+    "size": 60,
+    "price": 85,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "DangerousKing1041",
+    "flair": "Legacy:0/Buys:1/Sales:6",
+    "brand": "Jean Paul Gaultier",
+    "frag_name": "Le Beau EDT",
+    "size": 125,
+    "price": 85,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "hburt1313",
+    "flair": "Legacy:0/Buys:0/Sales:11",
+    "brand": "Byredo",
+    "frag_name": "Alto Astral",
+    "size": 50,
+    "price": 150,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "kiwington",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": "Widian London",
+    "size": 50,
+    "price": 215.9,
+    "fill_percent": 75,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "kiwington",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": "Widian Sahara",
+    "size": 50,
+    "price": 215.9,
+    "fill_percent": 75,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "kiwington",
+    "flair": "nan",
+    "brand": "Louis Vuitton",
+    "frag_name": "California Dream",
+    "size": 200,
+    "price": 381.0,
+    "fill_percent": 75,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "photographer2001",
+    "flair": "Legacy:0/Buys:9/Sales:19",
+    "brand": null,
+    "frag_name": null,
+    "size": null,
+    "price": 150,
+    "fill_percent": 99,
+    "status": "LISTED"
+  },
+  {
+    "author": "r_u_afraid",
+    "flair": "Legacy:0/Buys:3/Sales:1",
+    "brand": "Afnan",
+    "frag_name": "Supremacy Collector's Edition",
+    "size": 100,
+    "price": null,
+    "fill_percent": 83,
+    "status": "LISTED"
+  },
+  {
+    "author": "r_u_afraid",
+    "flair": "Legacy:0/Buys:3/Sales:1",
+    "brand": null,
+    "frag_name": "Reverie Aqua",
+    "size": 100,
+    "price": null,
+    "fill_percent": 98,
+    "status": "LISTED"
+  },
+  {
+    "author": "r_u_afraid",
+    "flair": "Legacy:0/Buys:3/Sales:1",
+    "brand": null,
+    "frag_name": "Ebene",
+    "size": 90,
+    "price": null,
+    "fill_percent": 92,
+    "status": "LISTED"
+  },
+  {
+    "author": "r_u_afraid",
+    "flair": "Legacy:0/Buys:3/Sales:1",
+    "brand": null,
+    "frag_name": "Opulence Leather",
+    "size": 100,
+    "price": null,
+    "fill_percent": 88,
+    "status": "LISTED"
+  },
+  {
+    "author": "Kanyeburner",
+    "flair": "Legacy:0/Buys:0/Sales:9",
+    "brand": "Yves Saint Laurent",
+    "frag_name": "Myslf L\u2019Absolu",
+    "size": 60,
+    "price": 150,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "tutman00",
+    "flair": "Legacy:5/Buys:1/Sales:41",
+    "brand": null,
+    "frag_name": "Ambre Chromatique",
+    "size": 50,
+    "price": 160,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "tutman00",
+    "flair": "Legacy:5/Buys:1/Sales:41",
+    "brand": "Jean Paul Gaultier",
+    "frag_name": "Scandal Absolu",
+    "size": 100,
+    "price": 70,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": "Dolce & Gabbana",
+    "frag_name": "Light Blue Italian Love EDT",
+    "size": 100,
+    "price": 45,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": "Dolce & Gabbana",
+    "frag_name": "Light Blue Eau Intense tester",
+    "size": 100,
+    "price": 45,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": "Yves Saint Laurent",
+    "frag_name": "Eau de Parfum Intense",
+    "size": 100,
+    "price": 75,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": "Bvlgari",
+    "frag_name": "Pour Homme EDT",
+    "size": 100,
+    "price": 70,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": "Gucci",
+    "frag_name": "Guilty Black Pour Homme",
+    "size": 50,
+    "price": 60,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": null,
+    "frag_name": "Le Sel D'issey EDT",
+    "size": 100,
+    "price": 40,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": "Ralph Lauren",
+    "frag_name": "Men's Polo 67 EDT",
+    "size": 75,
+    "price": 30,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": "Ralph Lauren",
+    "frag_name": "Men's Polo 67 EDP",
+    "size": 125,
+    "price": 95,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": "Bvlgari",
+    "frag_name": "Aqva Pour Homme",
+    "size": 100,
+    "price": 85,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": null,
+    "frag_name": "Pour Homme EDT",
+    "size": 125,
+    "price": 30,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": null,
+    "frag_name": "Pour Homme Intense EDT",
+    "size": 125,
+    "price": 20,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": "Chanel",
+    "frag_name": "Allure Homme Sport Superleggera",
+    "size": 100,
+    "price": 150,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Mineiac",
+    "flair": "Legacy:0/Buys:11/Sales:62",
+    "brand": "Yves Saint Laurent",
+    "frag_name": "Y Le Parfum Yves (2021)",
+    "size": 100,
+    "price": 110,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "buttflap69420",
+    "flair": "Legacy:0/Buys:8/Sales:8",
+    "brand": "Parfums de Marly",
+    "frag_name": "Herod",
+    "size": 125,
+    "price": 120,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "buttflap69420",
+    "flair": "Legacy:0/Buys:8/Sales:8",
+    "brand": "Chanel",
+    "frag_name": "Bleu de Chanel Parfum",
+    "size": 100,
+    "price": 50,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "buttflap69420",
+    "flair": "Legacy:0/Buys:8/Sales:8",
+    "brand": null,
+    "frag_name": "Guess Iconic EDP 2025",
+    "size": 100,
+    "price": 45,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "buttflap69420",
+    "flair": "Legacy:0/Buys:8/Sales:8",
+    "brand": "Yves Saint Laurent",
+    "frag_name": "Y EDP (2019 batch)",
+    "size": 100,
+    "price": 95,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "buttflap69420",
+    "flair": "Legacy:0/Buys:8/Sales:8",
+    "brand": "Giorgio Armani",
+    "frag_name": "Acqua di Gio",
+    "size": 100,
+    "price": 30,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "buttflap69420",
+    "flair": "Legacy:0/Buys:8/Sales:8",
+    "brand": null,
+    "frag_name": "Ahmed Maghribi Kaaf",
+    "size": 100,
+    "price": 30,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "buttflap69420",
+    "flair": "Legacy:0/Buys:8/Sales:8",
+    "brand": null,
+    "frag_name": "Vince Camuto Homme",
+    "size": 100,
+    "price": 20,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "buttflap69420",
+    "flair": "Legacy:0/Buys:8/Sales:8",
+    "brand": "Givenchy",
+    "frag_name": "Pi",
+    "size": 50,
+    "price": 20,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Big_Estate9575",
+    "flair": "Legacy:0/Buys:17/Sales:51",
+    "brand": "Creed",
+    "frag_name": "Viking",
+    "size": 100,
+    "price": 215,
+    "fill_percent": 85,
+    "status": "LISTED"
+  },
+  {
+    "author": "Budder_Pad",
+    "flair": "Legacy:0/Buys:16/Sales:31",
+    "brand": null,
+    "frag_name": "Matsukita no pres",
+    "size": 50,
+    "price": 150,
+    "fill_percent": 80,
+    "status": "LISTED"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Acqua di Parma",
+    "frag_name": "Fico Di Amalfi",
+    "size": 177,
+    "price": 100,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Green Envy (Greenly)",
+    "size": 30,
+    "price": 30,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Visionary (Imagination)",
+    "size": 30,
+    "price": 30,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Al Haramain Perfumes",
+    "frag_name": "Aqua Dubai",
+    "size": 74,
+    "price": 20,
+    "fill_percent": 95,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Armani",
+    "frag_name": "Code Parfum",
+    "size": 74,
+    "price": 40,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Albert Einstein Quantum",
+    "size": 98,
+    "price": 25,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Afnan",
+    "frag_name": "Supremacy Not Only Intense",
+    "size": 100,
+    "price": 20,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Armaf",
+    "frag_name": "Club De Nuit Intense Man Limited Edition",
+    "size": 105,
+    "price": 40,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Hugo Boss",
+    "frag_name": "Boss Bottled No. 6 Tester",
+    "size": 101,
+    "price": 25,
+    "fill_percent": 95,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Coach",
+    "frag_name": "For Men EDP",
+    "size": 100,
+    "price": 60,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Dior",
+    "frag_name": "Homme Sport 2017 (decant)",
+    "size": 100,
+    "price": 100,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Dior",
+    "frag_name": "Sauvage EDP",
+    "size": 59,
+    "price": 40,
+    "fill_percent": 60,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Dolce & Gabbana",
+    "frag_name": "The One EDT Tester",
+    "size": 97,
+    "price": 25,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Celerio Oros",
+    "size": 100,
+    "price": 30,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Spectre Wraith",
+    "size": 80,
+    "price": 15,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "L'eau D'issey Pour Homme",
+    "size": 124,
+    "price": 25,
+    "fill_percent": 95,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Lattafa",
+    "frag_name": "Emeer",
+    "size": 100,
+    "price": 15,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Lattafa",
+    "frag_name": "His Confession",
+    "size": 100,
+    "price": 30,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "Loewe",
+    "frag_name": "Esencia EDT",
+    "size": 100,
+    "price": 40,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Hiccup Body Spray",
+    "size": 198,
+    "price": 40,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Glacier Bold",
+    "size": 101,
+    "price": 15,
+    "fill_percent": 90,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": "MM",
+    "frag_name": "Jazz Club",
+    "size": 101,
+    "price": 50,
+    "fill_percent": 95,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Afternoon Dive",
+    "size": 50,
+    "price": 30,
+    "fill_percent": 95,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Alcantra Supreme",
+    "size": 50,
+    "price": 40,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Buko Intense",
+    "size": 50,
+    "price": 30,
+    "fill_percent": 95,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Eau Vanille",
+    "size": 50,
+    "price": 30,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Harmony",
+    "size": 50,
+    "price": 30,
+    "fill_percent": 95,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Pineapple Musk",
+    "size": 50,
+    "price": 35,
+    "fill_percent": 95,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Explorer Tester",
+    "size": 59,
+    "price": 20,
+    "fill_percent": 90,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "11ml pressurized bottles (bundle only)",
+    "size": 11,
+    "price": 50,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Khair Pistachio",
+    "size": 100,
+    "price": 15,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Rifaaqat",
+    "size": 83,
+    "price": 20,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "muffinman3666",
+    "flair": "Legacy:0/Buys:7/Sales:1",
+    "brand": null,
+    "frag_name": "Aries EDP (Aventus clone)",
+    "size": 30,
+    "price": 20,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "katanahibana",
+    "flair": "Legacy:0/Buys:8/Sales:1",
+    "brand": null,
+    "frag_name": "Pur Oud",
+    "size": 100,
+    "price": 975,
+    "fill_percent": 97,
+    "status": "LISTED"
+  },
+  {
+    "author": "Acrobatic_Force7954",
+    "flair": "Legacy:0/Buys:1/Sales:4",
+    "brand": "Dior",
+    "frag_name": "Eau Sauvage Parfum 2017",
+    "size": 100,
+    "price": 100,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Acrobatic_Force7954",
+    "flair": "Legacy:0/Buys:1/Sales:4",
+    "brand": "Dior",
+    "frag_name": "Sauvage Parfum",
+    "size": 100,
+    "price": 95,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Acrobatic_Force7954",
+    "flair": "Legacy:0/Buys:1/Sales:4",
+    "brand": null,
+    "frag_name": "Acqua Neroli",
+    "size": 100,
+    "price": 35,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Acrobatic_Force7954",
+    "flair": "Legacy:0/Buys:1/Sales:4",
+    "brand": "Dolce & Gabbana",
+    "frag_name": "Light Blue Forever",
+    "size": null,
+    "price": 70,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Acrobatic_Force7954",
+    "flair": "Legacy:0/Buys:1/Sales:4",
+    "brand": null,
+    "frag_name": "Carved Oud",
+    "size": 100,
+    "price": 135,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Acrobatic_Force7954",
+    "flair": "Legacy:0/Buys:1/Sales:4",
+    "brand": "Hugo Boss",
+    "frag_name": "Boss Bottled",
+    "size": null,
+    "price": 30,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Acrobatic_Force7954",
+    "flair": "Legacy:0/Buys:1/Sales:4",
+    "brand": "Hugo Boss",
+    "frag_name": "Boss Infinite",
+    "size": null,
+    "price": 30,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Acrobatic_Force7954",
+    "flair": "Legacy:0/Buys:1/Sales:4",
+    "brand": "Hugo Boss",
+    "frag_name": "Boss Tonic",
+    "size": null,
+    "price": 30,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "joimaiveer",
+    "flair": "Legacy:0/Buys:4/Sales:7",
+    "brand": "Valentino",
+    "frag_name": "Coral Fantasy",
+    "size": 100,
+    "price": 75,
+    "fill_percent": 92.5,
+    "status": "SOLD"
+  },
+  {
+    "author": "Impossible_Smile6527",
+    "flair": "Legacy:0/Buys:7/Sales:20",
+    "brand": "Creed",
+    "frag_name": "Absolu Aventus",
+    "size": 100,
+    "price": 300,
+    "fill_percent": 95,
+    "status": "LISTED"
+  },
+  {
+    "author": "MasterHeavyD",
+    "flair": "Legacy:0/Buys:2/Sales:1",
+    "brand": "Al Haramain Perfumes",
+    "frag_name": "Amber Oud Aqua Dubai",
+    "size": 75,
+    "price": 50,
+    "fill_percent": 93,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "MasterHeavyD",
+    "flair": "Legacy:0/Buys:2/Sales:1",
+    "brand": "Dolce & Gabbana",
+    "frag_name": "Light Blue",
+    "size": 125,
+    "price": 65,
+    "fill_percent": 96,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "MasterHeavyD",
+    "flair": "Legacy:0/Buys:2/Sales:1",
+    "brand": null,
+    "frag_name": "Himeros",
+    "size": 50,
+    "price": 180,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "MasterHeavyD",
+    "flair": "Legacy:0/Buys:2/Sales:1",
+    "brand": null,
+    "frag_name": "Infinity",
+    "size": 50,
+    "price": 180,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "MasterHeavyD",
+    "flair": "Legacy:0/Buys:2/Sales:1",
+    "brand": null,
+    "frag_name": "Insurrection Collector - Dominant",
+    "size": 100,
+    "price": 75,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "MasterHeavyD",
+    "flair": "Legacy:0/Buys:2/Sales:1",
+    "brand": null,
+    "frag_name": "Maison Rouge",
+    "size": 90,
+    "price": 115,
+    "fill_percent": 94,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "MasterHeavyD",
+    "flair": "Legacy:0/Buys:2/Sales:1",
+    "brand": null,
+    "frag_name": "Shuhrah Pour Homme",
+    "size": 90,
+    "price": 35,
+    "fill_percent": 94,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "MasterHeavyD",
+    "flair": "Legacy:0/Buys:2/Sales:1",
+    "brand": "Tom Ford",
+    "frag_name": "Oud Minerale",
+    "size": 50,
+    "price": 65,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "MasterHeavyD",
+    "flair": "Legacy:0/Buys:2/Sales:1",
+    "brand": "Yves Saint Laurent",
+    "frag_name": "Myself EDP",
+    "size": 40,
+    "price": 55,
+    "fill_percent": 63,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Yessahblessah37",
+    "flair": "Legacy:0/Buys:1/Sales:27",
+    "brand": "Le Labo",
+    "frag_name": "Another 13",
+    "size": 250,
+    "price": 580,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Yessahblessah37",
+    "flair": "Legacy:0/Buys:1/Sales:27",
+    "brand": null,
+    "frag_name": "Prodigy",
+    "size": 120,
+    "price": 330,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "krithik_s",
+    "flair": "nan",
+    "brand": "Xerjoff",
+    "frag_name": "Erba Gold",
+    "size": 50,
+    "price": null,
+    "fill_percent": 95,
+    "status": "LISTED"
+  },
+  {
+    "author": "krithik_s",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": "Ocean EDP",
+    "size": 100,
+    "price": null,
+    "fill_percent": 95,
+    "status": "LISTED"
+  },
+  {
+    "author": "krithik_s",
+    "flair": "nan",
+    "brand": "Azzaro",
+    "frag_name": "Wanted by Night",
+    "size": 100,
+    "price": null,
+    "fill_percent": 97,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Le Labo",
+    "frag_name": "Santal 33",
+    "size": 50,
+    "price": 130,
+    "fill_percent": 98,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Le Labo",
+    "frag_name": "The Matcha 26",
+    "size": 50,
+    "price": 120,
+    "fill_percent": 90,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Kilian",
+    "frag_name": "Love by Kilian Special Blend 2023",
+    "size": 50,
+    "price": 170,
+    "fill_percent": 98,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Kilian",
+    "frag_name": "Apple Brandy",
+    "size": 50,
+    "price": 140,
+    "fill_percent": 97,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Armani",
+    "frag_name": "Armani Blanc Kogane",
+    "size": 98,
+    "price": 130,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Armani",
+    "frag_name": "Pivoine Suzhou",
+    "size": 100,
+    "price": 105,
+    "fill_percent": 96,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "BR540 extrait",
+    "size": 71,
+    "price": 240,
+    "fill_percent": 99,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "BR540 extrait",
+    "size": 71,
+    "price": 180,
+    "fill_percent": 80,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "BR540 extrait",
+    "size": 71,
+    "price": 230,
+    "fill_percent": 98,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Br540 extrait",
+    "size": null,
+    "price": 240,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "BR 540 extrait",
+    "size": 71,
+    "price": 120,
+    "fill_percent": 50,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "BR 540 extrait",
+    "size": 71,
+    "price": 105,
+    "fill_percent": 45,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "BR 540 extrait",
+    "size": 71,
+    "price": 140,
+    "fill_percent": 65,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "BR 540 extrait",
+    "size": 71,
+    "price": 120,
+    "fill_percent": 50,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Grand soir",
+    "size": 71,
+    "price": 145,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Oud Silk Mood Extrait de Parfum",
+    "size": 71,
+    "price": 175,
+    "fill_percent": 99,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Gentle Fluidity Gold",
+    "size": 71,
+    "price": 140,
+    "fill_percent": 96,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Gentle Fluidity Gold",
+    "size": null,
+    "price": 130,
+    "fill_percent": 88,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Baccarat Rouge 540 EDP",
+    "size": 71,
+    "price": 170,
+    "fill_percent": 98,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Baccarat Rouge 540 EDP",
+    "size": 198,
+    "price": 390,
+    "fill_percent": 97,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Aqua Universalis Cologne Forte",
+    "size": 198,
+    "price": 260,
+    "fill_percent": 98,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Gentle Fluidity Gold",
+    "size": 198,
+    "price": 280,
+    "fill_percent": 96.5,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": null,
+    "frag_name": "Oud",
+    "size": 198,
+    "price": 305,
+    "fill_percent": 90,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Maison Francis Kurkdjian",
+    "frag_name": "Aqua Celestia Cologne Forte",
+    "size": 71,
+    "price": 140,
+    "fill_percent": 98,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Tom Ford",
+    "frag_name": "Lost Cherry",
+    "size": 50,
+    "price": 130,
+    "fill_percent": 96,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Tom Ford",
+    "frag_name": "Cherry Smoke",
+    "size": 30,
+    "price": 110,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Tom Ford",
+    "frag_name": "Vanilla Sex",
+    "size": 50,
+    "price": 125,
+    "fill_percent": 96,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Tom Ford",
+    "frag_name": "Fucking Fabulous",
+    "size": 50,
+    "price": 135,
+    "fill_percent": 97,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Tom Ford",
+    "frag_name": "Oud Wood",
+    "size": 50,
+    "price": 130,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Tom Ford",
+    "frag_name": "Noir de Noir",
+    "size": 50,
+    "price": 130,
+    "fill_percent": 98,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Tom Ford",
+    "frag_name": "Black Orchid Parfum",
+    "size": 50,
+    "price": 80,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Tom Ford",
+    "frag_name": "Cafe Rose",
+    "size": 50,
+    "price": 80,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Creed",
+    "frag_name": "Carmina",
+    "size": 74,
+    "price": 160,
+    "fill_percent": 92,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": null,
+    "frag_name": "Wind flowers",
+    "size": 75,
+    "price": 135,
+    "fill_percent": 94,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Creed",
+    "frag_name": "Aqua fiorentina",
+    "size": 74,
+    "price": 150,
+    "fill_percent": 98,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": null,
+    "frag_name": "Royale princess oud",
+    "size": 74,
+    "price": 120,
+    "fill_percent": 95,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": null,
+    "frag_name": "Eladaria",
+    "size": 74,
+    "price": 175,
+    "fill_percent": 96,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": null,
+    "frag_name": "Queen of silk",
+    "size": 74,
+    "price": 155,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Creed",
+    "frag_name": "Green Irish Tweed",
+    "size": 101,
+    "price": 145,
+    "fill_percent": 88,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Creed",
+    "frag_name": "Aventus",
+    "size": 101,
+    "price": 170,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Creed",
+    "frag_name": "Aventus Cologne",
+    "size": 50,
+    "price": 135,
+    "fill_percent": 95,
+    "status": "SOLD"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Penhaligon's",
+    "frag_name": "A Balm of Calm",
+    "size": 101,
+    "price": 170,
+    "fill_percent": 95,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Penhaligon's",
+    "frag_name": "A Kiss of Bliss",
+    "size": 101,
+    "price": 185,
+    "fill_percent": 95,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": null,
+    "frag_name": "Dancing on the moon",
+    "size": null,
+    "price": 85,
+    "fill_percent": 87,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Armani",
+    "frag_name": "Rose d'arabie",
+    "size": 98,
+    "price": 190,
+    "fill_percent": 99,
+    "status": "LISTED"
+  },
+  {
+    "author": "aaprules",
+    "flair": "Legacy:6/Buys:6/Sales:130",
+    "brand": "Lanc\u00f4me",
+    "frag_name": "Oud bouquet",
+    "size": 101,
+    "price": 135,
+    "fill_percent": 96,
+    "status": "LISTED"
+  },
+  {
+    "author": "LigmaNutzNChill",
+    "flair": "MODERATOR",
+    "brand": null,
+    "frag_name": null,
+    "size": null,
+    "price": 100,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "worldrallyx",
+    "flair": "Legacy:0/Buys:3/Sales:2",
+    "brand": null,
+    "frag_name": "Amber Oud Ruby",
+    "size": 60,
+    "price": 27,
+    "fill_percent": 75,
+    "status": "LISTED"
+  },
+  {
+    "author": "worldrallyx",
+    "flair": "Legacy:0/Buys:3/Sales:2",
+    "brand": "Elizabeth Arden",
+    "frag_name": "Untold",
+    "size": 105,
+    "price": 30,
+    "fill_percent": 98,
+    "status": "LISTED"
+  },
+  {
+    "author": "worldrallyx",
+    "flair": "Legacy:0/Buys:3/Sales:2",
+    "brand": null,
+    "frag_name": "Aquarius (Aventus dupe, came with no label)",
+    "size": null,
+    "price": 25,
+    "fill_percent": 50,
+    "status": "LISTED"
+  },
+  {
+    "author": "worldrallyx",
+    "flair": "Legacy:0/Buys:3/Sales:2",
+    "brand": null,
+    "frag_name": "Carter",
+    "size": null,
+    "price": 25,
+    "fill_percent": 95,
+    "status": "LISTED"
+  },
+  {
+    "author": "ElCrimsonChin",
+    "flair": "Legacy:0/Buys:3/Sales:29",
+    "brand": null,
+    "frag_name": null,
+    "size": null,
+    "price": 280,
+    "fill_percent": 98.5,
+    "status": "LISTED"
+  },
+  {
+    "author": "DocHoliday_21",
+    "flair": "Legacy:0/Buys:5/Sales:0",
+    "brand": "Xerjoff",
+    "frag_name": "Tony Iommy Monkey Special",
+    "size": 100,
+    "price": 180,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "DocHoliday_21",
+    "flair": "Legacy:0/Buys:5/Sales:0",
+    "brand": "Valentino",
+    "frag_name": "Green Stravaganza",
+    "size": 100,
+    "price": 80,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "DocHoliday_21",
+    "flair": "Legacy:0/Buys:5/Sales:0",
+    "brand": "Valentino",
+    "frag_name": "Uomo Noir Absolu",
+    "size": 100,
+    "price": 250,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "DocHoliday_21",
+    "flair": "Legacy:0/Buys:5/Sales:0",
+    "brand": "Bvlgari",
+    "frag_name": "Man Extreme",
+    "size": 100,
+    "price": 145,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "DocHoliday_21",
+    "flair": "Legacy:0/Buys:5/Sales:0",
+    "brand": "Armani",
+    "frag_name": "Code Absolu",
+    "size": 60,
+    "price": 85,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "DocHoliday_21",
+    "flair": "Legacy:0/Buys:5/Sales:0",
+    "brand": "Initio",
+    "frag_name": "Rehab",
+    "size": 90,
+    "price": 165,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "DocHoliday_21",
+    "flair": "Legacy:0/Buys:5/Sales:0",
+    "brand": "Jimmy Choo",
+    "frag_name": "Man",
+    "size": 100,
+    "price": 28,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "DocHoliday_21",
+    "flair": "Legacy:0/Buys:5/Sales:0",
+    "brand": null,
+    "frag_name": "XX Artisan",
+    "size": 100,
+    "price": 28,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "GangstaSalad",
+    "flair": "Legacy:9/Buys:3/Sales:11",
+    "brand": "Giorgio Armani",
+    "frag_name": "Code",
+    "size": 75,
+    "price": null,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "GangstaSalad",
+    "flair": "Legacy:9/Buys:3/Sales:11",
+    "brand": "Prada",
+    "frag_name": "Luna Rossa EDP",
+    "size": 100,
+    "price": null,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "leosslammin",
+    "flair": "Legacy:0/Buys:2/Sales:0",
+    "brand": null,
+    "frag_name": "Sangri",
+    "size": null,
+    "price": 110,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "leosslammin",
+    "flair": "Legacy:0/Buys:2/Sales:0",
+    "brand": null,
+    "frag_name": "Idilios",
+    "size": null,
+    "price": 150,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "leosslammin",
+    "flair": "Legacy:0/Buys:2/Sales:0",
+    "brand": null,
+    "frag_name": "430 Kings Rd",
+    "size": null,
+    "price": null,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "NoActuator7480",
+    "flair": "Legacy:0/Buys:3/Sales:16",
+    "brand": null,
+    "frag_name": null,
+    "size": null,
+    "price": 120,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "NoActuator7480",
+    "flair": "Legacy:0/Buys:3/Sales:16",
+    "brand": null,
+    "frag_name": null,
+    "size": null,
+    "price": 165,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "NoActuator7480",
+    "flair": "Legacy:0/Buys:3/Sales:16",
+    "brand": "Creed",
+    "frag_name": "Aventus",
+    "size": 100,
+    "price": null,
+    "fill_percent": 80,
+    "status": "SOLD"
+  },
+  {
+    "author": "NoActuator7480",
+    "flair": "Legacy:0/Buys:3/Sales:16",
+    "brand": null,
+    "frag_name": null,
+    "size": null,
+    "price": 170,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "meridius85",
+    "flair": "Legacy:0/Buys:18/Sales:46",
+    "brand": null,
+    "frag_name": "",
+    "size": 100,
+    "price": 130,
+    "fill_percent": 95,
+    "status": "LISTED"
+  },
+  {
+    "author": "musicandarts",
+    "flair": "Legacy:0/Buys:3/Sales:15",
+    "brand": null,
+    "frag_name": "Eden-Roc",
+    "size": 7.5,
+    "price": 20,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "NoActuator7480",
+    "flair": "Legacy:0/Buys:3/Sales:16",
+    "brand": null,
+    "frag_name": "Loumari Porthole",
+    "size": 100,
+    "price": 319,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "hburt1313",
+    "flair": "Legacy:0/Buys:0/Sales:11",
+    "brand": null,
+    "frag_name": "",
+    "size": 50,
+    "price": 120,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "lookitsnicolas",
+    "flair": "nan",
+    "brand": "Nishane",
+    "frag_name": "Hacivat",
+    "size": 100,
+    "price": 130,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "lookitsnicolas",
+    "flair": "nan",
+    "brand": "Byredo",
+    "frag_name": "Gypsy Water",
+    "size": 100,
+    "price": 125,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "lookitsnicolas",
+    "flair": "nan",
+    "brand": "Byredo",
+    "frag_name": "Mojave Ghost",
+    "size": 100,
+    "price": 140,
+    "fill_percent": 99,
+    "status": "SOLD"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Amouage",
+    "frag_name": "Interlude 53",
+    "size": 100,
+    "price": 215,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Amouage",
+    "frag_name": "Jubilation 40",
+    "size": 100,
+    "price": 279,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Amouage",
+    "frag_name": "Reflection",
+    "size": 100,
+    "price": 186,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Amouage",
+    "frag_name": "Beach Hut",
+    "size": 100,
+    "price": 239,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Amouage",
+    "frag_name": "Purpose",
+    "size": 100,
+    "price": 170,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Amouage",
+    "frag_name": "Royal Tobacco",
+    "size": 100,
+    "price": 199,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Amouage",
+    "frag_name": "Woods Symphony",
+    "size": 100,
+    "price": 165,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Giorgio Armani",
+    "frag_name": "Code EDT",
+    "size": 100,
+    "price": 63,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Armani",
+    "frag_name": "Stronger With You Intensely",
+    "size": 100,
+    "price": 85,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Armani",
+    "frag_name": "Stronger With You Absolutely",
+    "size": 100,
+    "price": 90,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Love Triumphs Over War",
+    "size": 100,
+    "price": 175,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Triumph of Bacchus",
+    "size": 100,
+    "price": 199,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Pallas of Athene",
+    "size": 100,
+    "price": 180,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Hard Candy",
+    "size": 50,
+    "price": 220,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Hard Candy 2025",
+    "size": 100,
+    "price": 400,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Hard Candy Elixir 2025",
+    "size": 100,
+    "price": 480,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Amazonia",
+    "size": 50,
+    "price": 200,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Aurora",
+    "size": 50,
+    "price": 185,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Blue Fever 2025",
+    "size": 100,
+    "price": 325,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Notorious",
+    "size": 50,
+    "price": 205,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Bois Eternal",
+    "size": 50,
+    "price": 195,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Onyx",
+    "size": 50,
+    "price": 205,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Onyx air",
+    "size": 50,
+    "price": 205,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Slut",
+    "size": 50,
+    "price": 205,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Slut Elixir 2025",
+    "size": 100,
+    "price": 350,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Supernova",
+    "size": 50,
+    "price": 210,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Azzaro",
+    "frag_name": "The Most Wanted Intense EDP",
+    "size": 100,
+    "price": 62,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "The Most Wanted Parfum",
+    "size": 100,
+    "price": 70,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Forever Wanted Elixir",
+    "size": 100,
+    "price": 105,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Bond No 9",
+    "frag_name": "Dubai Gold",
+    "size": 100,
+    "price": 190,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Bond No 9",
+    "frag_name": "Lafayette Street",
+    "size": 100,
+    "price": 219,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Bond No 9",
+    "frag_name": "Lafayette Street",
+    "size": 100,
+    "price": 189,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Bond No 9",
+    "frag_name": "New York Nights",
+    "size": 100,
+    "price": 219,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Bond No 9",
+    "frag_name": "Scent of Peace Natural",
+    "size": 100,
+    "price": 158,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Bond No 9",
+    "frag_name": "Ardent",
+    "size": 100,
+    "price": 159,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Bond No 9",
+    "frag_name": "Blue Sapphire",
+    "size": 100,
+    "price": 449,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Nemer",
+    "size": 100,
+    "price": 279,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Bvlgari",
+    "frag_name": "Man in Black Parfum",
+    "size": 100,
+    "price": 86,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Carolina Herrera",
+    "frag_name": "212 VIP Black",
+    "size": 200,
+    "price": 79,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Creed",
+    "frag_name": "Absolu Aventus",
+    "size": 75,
+    "price": 285,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Creed",
+    "frag_name": "Himalaya",
+    "size": 100,
+    "price": 155,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Creed",
+    "frag_name": "Millisime Imperial",
+    "size": 100,
+    "price": 155,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Creed",
+    "frag_name": "Original Vetiver",
+    "size": 100,
+    "price": 179,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Original Vetiver Tester wo Cap",
+    "size": 100,
+    "price": 155,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Creed",
+    "frag_name": "Virgin Island Water",
+    "size": 100,
+    "price": 209,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Dolce & Gabbana",
+    "frag_name": "The One Mysterious Night",
+    "size": 100,
+    "price": 225,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "The Mint",
+    "size": 50,
+    "price": 75,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "The Rose",
+    "size": 50,
+    "price": 80,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "The Incense",
+    "size": 50,
+    "price": 85,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Office for Men",
+    "size": 100,
+    "price": 60,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Date for Men",
+    "size": 100,
+    "price": 60,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Club for Men",
+    "size": 100,
+    "price": 75,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Black Tie for Men",
+    "size": 100,
+    "price": 80,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Most Masculine",
+    "size": 100,
+    "price": 120,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Day for Women",
+    "size": 10,
+    "price": 25,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Frederic Malle",
+    "frag_name": "Portrait of a Lady",
+    "size": 100,
+    "price": 219,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Frederic Malle",
+    "frag_name": "Portrait of a Lady",
+    "size": 100,
+    "price": 194,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Frederic Malle",
+    "frag_name": "Rose & Cuir",
+    "size": 100,
+    "price": 160,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Frederic Malle",
+    "frag_name": "Carnal Flower",
+    "size": 100,
+    "price": 200,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Frederic Malle",
+    "frag_name": "Vulcan Feu",
+    "size": 100,
+    "price": 45,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Givenchy",
+    "frag_name": "Ambree",
+    "size": 100,
+    "price": 97,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Boisee",
+    "size": 100,
+    "price": 75,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Reserve Privee",
+    "size": 100,
+    "price": 84,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Hugo Boss",
+    "frag_name": "Boss Bottled Absolu",
+    "size": 50,
+    "price": 64,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Hugo Boss",
+    "frag_name": "Boss Bottled Bold Citrus (Tester w Cap)",
+    "size": 100,
+    "price": 70,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Absolute Aphrodisiac",
+    "size": 90,
+    "price": 195,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Atomic Rose",
+    "size": 90,
+    "price": 189,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Hi Frequency",
+    "size": 90,
+    "price": 139,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Hi Frequency (No Cellophane)",
+    "size": 90,
+    "price": 134,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Hi Frequency",
+    "size": 90,
+    "price": 130,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Musk Therapy",
+    "size": 90,
+    "price": 205,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Oud for Greatness",
+    "size": 90,
+    "price": 165,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Oud for Greatness Neo (Tester w/ Cap)",
+    "size": 90,
+    "price": 165,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Psychedelic Love",
+    "size": 90,
+    "price": 165,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Psychedelic Love (Tester w/ Cap)",
+    "size": 90,
+    "price": 150,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Paragon",
+    "size": 90,
+    "price": 194,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Powershelf",
+    "size": 90,
+    "price": 205,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Rehab",
+    "size": 90,
+    "price": 189,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Initio",
+    "frag_name": "Side Effect",
+    "size": 90,
+    "price": 205,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Jean Paul Gaultier",
+    "frag_name": "Scandal Le Parfum",
+    "size": 200,
+    "price": 79,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Jean Paul Gaultier",
+    "frag_name": "Scandal Le Parfum",
+    "size": 100,
+    "price": 79,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Jean Paul Gaultier",
+    "frag_name": "Le Male Elixir",
+    "size": 125,
+    "price": 89,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Jean Paul Gaultier",
+    "frag_name": "Le Male Le Parfum",
+    "size": 125,
+    "price": 89,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Jean Paul Gaultier",
+    "frag_name": "Le Beau Paradise Garden",
+    "size": 125,
+    "price": 89,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Jean Paul Gaultier",
+    "frag_name": "Le Beau Le Parfum",
+    "size": 125,
+    "price": 89,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Jean Paul Gaultier",
+    "frag_name": "Le Male Le Parfum",
+    "size": 200,
+    "price": 105,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Kilian",
+    "frag_name": "Angel's Share",
+    "size": 250,
+    "price": 510,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "By Kilian",
+    "frag_name": "Angel's Share",
+    "size": 100,
+    "price": 265,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "By Kilian",
+    "frag_name": "Angel's Share",
+    "size": 50,
+    "price": 169,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Old Fashioned",
+    "size": 50,
+    "price": 180,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Irish Leather",
+    "size": 75,
+    "price": 110,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Blockade",
+    "size": 100,
+    "price": 229,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Blockade (Tester w Cap)",
+    "size": 100,
+    "price": 219,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "French Defense (Tester w Cap)",
+    "size": 100,
+    "price": 219,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Opera Mate",
+    "size": 100,
+    "price": 235,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Lionora (Tester w Cap)",
+    "size": 100,
+    "price": 219,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Kingside",
+    "size": 100,
+    "price": 325,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Mentor",
+    "size": 100,
+    "price": 325,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Queening",
+    "size": 100,
+    "price": 209,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Queening",
+    "size": 100,
+    "price": 219,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Montale",
+    "frag_name": "Arabians Tonka",
+    "size": 100,
+    "price": 95,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Nishane",
+    "frag_name": "Hacivat",
+    "size": 100,
+    "price": 159,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Nishane",
+    "frag_name": "Wulong Cha",
+    "size": 100,
+    "price": 154,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "1 Million Parfum",
+    "size": 100,
+    "price": 65,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "1 Million Elixir",
+    "size": 100,
+    "price": 75,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Invictus EDT",
+    "size": 200,
+    "price": 67,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Invictus Parfum",
+    "size": 100,
+    "price": 76,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Invictus Victory Extreme",
+    "size": 100,
+    "price": 65,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Invictus Victory Extreme",
+    "size": 200,
+    "price": 85,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Invictus Platinum",
+    "size": 100,
+    "price": 90,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Phantom Intense",
+    "size": 200,
+    "price": 87,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Carlisle",
+    "size": 125,
+    "price": 205,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Castley",
+    "size": 125,
+    "price": 215,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Delina",
+    "size": 75,
+    "price": 176,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Godolphin (BNIB)",
+    "size": 125,
+    "price": 140,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Godolphin (Tester w Cap)",
+    "size": 125,
+    "price": 125,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Greenley (BNIB)",
+    "size": 125,
+    "price": 193,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Haltane (BNIB)",
+    "size": 125,
+    "price": 193,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Herod (BNIB)",
+    "size": 125,
+    "price": 175,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Layton (BNIB)",
+    "size": 125,
+    "price": 190,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Oajan (BNIB)",
+    "size": 125,
+    "price": 190,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Percival (125ml, BNIB)",
+    "size": 125,
+    "price": 185,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Percival (200ml, BNIB)",
+    "size": 200,
+    "price": 240,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Percival (Tester w Cap)",
+    "size": 125,
+    "price": 170,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Pegasus",
+    "size": 125,
+    "price": 155,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Pegasus",
+    "size": 125,
+    "price": 150,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Pegasus",
+    "size": 200,
+    "price": 189,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Pegasus Exclusif",
+    "size": 125,
+    "price": 159,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Sedley",
+    "size": 125,
+    "price": 190,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Valaya",
+    "size": 75,
+    "price": 180,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Valaya Exclusif",
+    "size": 75,
+    "price": 230,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Valaya Exclusif",
+    "size": 75,
+    "price": 205,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Parfums de Marly",
+    "frag_name": "Perseus",
+    "size": 125,
+    "price": 175,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Halfeti",
+    "size": 100,
+    "price": 185,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Halfeti Cedar",
+    "size": 100,
+    "price": 190,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Prada",
+    "frag_name": "Amber Pour Homme",
+    "size": 100,
+    "price": 69,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Prada",
+    "frag_name": "L'Homme Intense EDP",
+    "size": 100,
+    "price": 84,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Prada",
+    "frag_name": "L'Homme Intense EDP (Tester w Cap)",
+    "size": 100,
+    "price": 84,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Prada",
+    "frag_name": "Luna Rossa Black",
+    "size": 100,
+    "price": 80,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Prada",
+    "frag_name": "Luna Rossa Carbon",
+    "size": 100,
+    "price": 76,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Prada",
+    "frag_name": "Luna Rossa Sport",
+    "size": 100,
+    "price": 76,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Prada",
+    "frag_name": "Luna Rossa Sport",
+    "size": 100,
+    "price": 69,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Prada",
+    "frag_name": "Luna Rossa Ocean Le Parfum",
+    "size": 100,
+    "price": 94,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "God of Fire",
+    "size": 50,
+    "price": 185,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Mango Kiss",
+    "size": 50,
+    "price": 185,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Tom Ford",
+    "frag_name": "Noir",
+    "size": 100,
+    "price": 110,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Tom Ford",
+    "frag_name": "Myrrhe Mystere",
+    "size": 100,
+    "price": 340,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Valentino",
+    "frag_name": "Born in Roma Extradose",
+    "size": 100,
+    "price": 125,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Viktor & Rolf",
+    "frag_name": "Spicebomb Extreme",
+    "size": 90,
+    "price": 70,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Xerjoff",
+    "frag_name": "Naxos",
+    "size": 100,
+    "price": 175,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Xerjoff",
+    "frag_name": "Erba Pura",
+    "size": 100,
+    "price": 144,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Silverlake",
+    "size": 100,
+    "price": 31,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Turathi Blue",
+    "size": 90,
+    "price": 27,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Turathi Electric",
+    "size": 90,
+    "price": 36,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "9PM Rebel",
+    "size": 100,
+    "price": 32,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Turathi Purple(W)",
+    "size": 90,
+    "price": 27,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Turathi Electric",
+    "size": 90,
+    "price": 34,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Armaf",
+    "frag_name": "Club De Nuit Precieux Extrait",
+    "size": 55,
+    "price": 50,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Armaf",
+    "frag_name": "Club De Nuit Intense Limited Edition",
+    "size": 105,
+    "price": 59,
+    "fill_percent": 100,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": "Davidoff",
+    "frag_name": "Coolwater Intense",
+    "size": 125,
+    "price": 35,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Azzure Aoud",
+    "size": 100,
+    "price": 35,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Habik",
+    "size": 100,
+    "price": 35,
+    "fill_percent": 100,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Power Up Fresh EDT Spray",
+    "size": 100,
+    "price": 25,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "Desire EDT",
+    "size": 30,
+    "price": 10,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "Master-Professor4554",
+    "flair": "Legacy:0/Buys:61/Sales:303",
+    "brand": null,
+    "frag_name": "MYSLF EDP Travel Spray",
+    "size": 10,
+    "price": 19,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "hburt1313",
+    "flair": "Legacy:0/Buys:0/Sales:11",
+    "brand": null,
+    "frag_name": "extrait de Parfum",
+    "size": 30,
+    "price": 85,
+    "fill_percent": 99,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": "Bond No 9",
+    "frag_name": "The Scent Of Peace",
+    "size": 100,
+    "price": 135,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": null,
+    "frag_name": "Kajal Faris",
+    "size": 100,
+    "price": 69,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": "Louis Vuitton",
+    "frag_name": "Meteore",
+    "size": 30,
+    "price": 95,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": null,
+    "frag_name": "Burlington 1819",
+    "size": 100,
+    "price": 139,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": null,
+    "frag_name": "Aaron Terence Hughes Haze",
+    "size": 50,
+    "price": 189,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": null,
+    "frag_name": "Aaron Terence Hughes Notorious",
+    "size": 50,
+    "price": 189,
+    "fill_percent": 90,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": "Armani",
+    "frag_name": "Code EDP 2024",
+    "size": 50,
+    "price": 49,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": null,
+    "frag_name": "Essential Parfums Orange X Santal",
+    "size": 100,
+    "price": 69,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": null,
+    "frag_name": "Essential Parfums Divine Vanille",
+    "size": 100,
+    "price": 69,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": null,
+    "frag_name": "Mansa Pernoire",
+    "size": 50,
+    "price": 169,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": null,
+    "frag_name": "Date For Men",
+    "size": 100,
+    "price": 55,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": "Afnan",
+    "frag_name": "Assorted (Only Missing Test Sprays)",
+    "size": null,
+    "price": null,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": "Lattafa",
+    "frag_name": "Assorted (Only Missing Test Sprays)",
+    "size": null,
+    "price": null,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": "Lattafa",
+    "frag_name": "Art of Arabia III",
+    "size": null,
+    "price": 25,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": null,
+    "frag_name": "Amphitrite\u2019s Elixir (Aventus For Her)",
+    "size": null,
+    "price": 35,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "Nakg16",
+    "flair": "Legacy:0/Buys:69/Sales:327",
+    "brand": null,
+    "frag_name": "Cap Dantibes",
+    "size": 30,
+    "price": 65,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "koreanfashionguy",
+    "flair": "Legacy:0/Buys:10/Sales:13",
+    "brand": null,
+    "frag_name": "Khadlaj Island Dreams",
+    "size": 101,
+    "price": null,
+    "fill_percent": 98,
+    "status": "LISTED"
+  },
+  {
+    "author": "koreanfashionguy",
+    "flair": "Legacy:0/Buys:10/Sales:13",
+    "brand": null,
+    "frag_name": "Francique 63.55",
+    "size": 101,
+    "price": null,
+    "fill_percent": 99,
+    "status": "LISTED"
+  },
+  {
+    "author": "koreanfashionguy",
+    "flair": "Legacy:0/Buys:10/Sales:13",
+    "brand": null,
+    "frag_name": "Mercedes Benz Cologne",
+    "size": 118,
+    "price": null,
+    "fill_percent": 90,
+    "status": "LISTED"
+  },
+  {
+    "author": "koreanfashionguy",
+    "flair": "Legacy:0/Buys:10/Sales:13",
+    "brand": null,
+    "frag_name": "Rasasi Hawas Rare Blue Batch",
+    "size": 101,
+    "price": null,
+    "fill_percent": 96,
+    "status": "LISTED"
+  },
+  {
+    "author": "lazarohorniblow8602l",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": null,
+    "size": null,
+    "price": 400,
+    "fill_percent": null,
+    "status": "LISTED"
+  },
+  {
+    "author": "theoriginalted",
+    "flair": "nan",
+    "brand": null,
+    "frag_name": null,
+    "size": null,
+    "price": 70,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "BigGiddy",
+    "flair": "Legacy:0/Buys:25/Sales:41",
+    "brand": null,
+    "frag_name": "Versace Dylan Blue",
+    "size": 100,
+    "price": 60,
+    "fill_percent": 98,
+    "status": "SOLD"
+  },
+  {
+    "author": "BigGiddy",
+    "flair": "Legacy:0/Buys:25/Sales:41",
+    "brand": "Gucci",
+    "frag_name": "Gucci Guilty EDP (tester)",
+    "size": 100,
+    "price": 75,
+    "fill_percent": null,
+    "status": "SOLD"
+  },
+  {
+    "author": "meridius85",
+    "flair": "Legacy:0/Buys:18/Sales:46",
+    "brand": null,
+    "frag_name": null,
+    "size": 100,
+    "price": 45,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  },
+  {
+    "author": "meridius85",
+    "flair": "Legacy:0/Buys:18/Sales:46",
+    "brand": null,
+    "frag_name": null,
+    "size": 100,
+    "price": 45,
+    "fill_percent": null,
+    "status": "AVAILABLE"
+  }
+]
