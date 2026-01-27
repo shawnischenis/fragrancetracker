@@ -24,6 +24,14 @@ def clean_reddit_data(file_path):
     
     # Remove common noise from frag_name
     df['clean_name'] = df['frag_name'].str.replace(r"\(.*?\)", "", regex=True).str.strip().str.upper()
+
+    # FILTER: Exclude Decants
+    # 1. Remove if "DECANT" is in the name
+    df = df[~df['frag_name'].str.contains('decant', case=False, na=False)]
+    
+    # 2. Remove small sizes (< 30ml) which are likely decants or travel sprays
+    # Keep NaN sizes as they might be unparsed full bottles
+    df = df[ (df['size'] >= 29) | (df['size'].isna()) ]
     
     return df
 

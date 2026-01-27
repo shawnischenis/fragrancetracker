@@ -7,6 +7,7 @@ class Fragrance(BaseModel):
     reddit_name: str
     jomashop_name: Optional[str] = None
     jomashop_price: Optional[float] = None
+    jomashop_url: Optional[str] = None
     weighted_avg_price: Optional[float] = None
     weighted_std_dev: Optional[float] = None
     normalized_price: Optional[float] = None

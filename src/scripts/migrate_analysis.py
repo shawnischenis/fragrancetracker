@@ -2,7 +2,7 @@ import pandas as pd
 from pymongo import MongoClient
 import os
 
-CSV_PATH = 'data/analysis/reddit_vs_jomashop_analysis.csv'
+CSV_PATH = 'data/cleaned/price_comparison.csv'
 MONGO_URI = os.getenv('MONGO_URL', 'mongodb+srv://shawnchen456_db_user:Fwu7qm1jlkw2AN1R@cluster0.grvnfcf.mongodb.net/?appName=Cluster0')
 DB_NAME = 'fragrancetracker'
 COLLECTION_NAME = 'fragrances'

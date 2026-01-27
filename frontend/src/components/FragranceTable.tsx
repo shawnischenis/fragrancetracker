@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Search, ChevronDown, Bell, TrendingUp, Droplet } from 'lucide-react';
+import { Search, ChevronDown, Bell, TrendingUp, Droplet, ExternalLink } from 'lucide-react';
 
 interface Fragrance {
     reddit_name: string;
@@ -10,6 +10,7 @@ interface Fragrance {
     weighted_std_dev?: number;
     listing_count?: number;
     jomashop_price?: number;
+    jomashop_url?: string;
     weighted_price_diff?: number;
 }
 
@@ -212,7 +213,20 @@ export const FragranceTable: React.FC<FragranceTableProps> = ({ onOpenAlert }) =
                                         <div className="flex flex-col">
                                             <span className="text-stone-500 font-mono text-xs uppercase tracking-wide">Jomashop</span>
                                             <div className="flex items-center gap-2">
-                                                <span className="text-stone-700">${fragrance.jomashop_price.toFixed(0)}</span>
+                                                {fragrance.jomashop_url ? (
+                                                    <a
+                                                        href={fragrance.jomashop_url}
+                                                        target="_blank"
+                                                        rel="noopener noreferrer"
+                                                        className="text-stone-700 hover:text-rose-600 hover:underline decoration-rose-300 font-medium transition-colors flex items-center gap-1"
+                                                    >
+                                                        ${fragrance.jomashop_price.toFixed(0)}
+                                                        <ExternalLink className="w-3 h-3 text-stone-400" />
+                                                    </a>
+                                                ) : (
+                                                    <span className="text-stone-700">${fragrance.jomashop_price.toFixed(0)}</span>
+                                                )}
+
                                                 {fragrance.weighted_price_diff && (
                                                     <span className={`text-[10px] px-1.5 py-0.5 rounded font-bold ${fragrance.weighted_price_diff < 0 ? 'bg-emerald-100 text-emerald-700' : 'bg-rose-100 text-rose-700'}`}>
                                                         {fragrance.weighted_price_diff < 0 ? 'DEAL' : 'HIGH'}
