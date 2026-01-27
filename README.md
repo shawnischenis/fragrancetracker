@@ -1,16 +1,16 @@
 # FragranceTracker
 
-**The Scent Index** - A market intelligence platform for fragrance enthusiasts. This application scrapes, cleans, and analyzes prices from the secondary market (Reddit r/fragranceswap) and compares them against retail discounters (Jomashop) to identify deep discounts, market volatility, and rare finds.
+**The Scent Index** - A market intelligence platform for fragrance enthusiasts. This application scrapes, cleans, and analyzes prices from the secondary market (Reddit r/fragranceswap) and compares them against retail discounters (Jomashop) to identify deep discounts, market volatility, and rare bottles.
 
-## 🚀 Features
+## Features
 
-*   **Market Analysis**: Automatically scrapes hundreds of listings to calculate "Street Price" and volatility (Standard Deviation).
+*   **Market Analysis**: Automatically scrapes hundreds of listings to calculate price with respect to bottle fill and r/fragranceswap seller reputation and volatility (Standard Deviation).
 *   **Deal Logic**: Identifies "Deals" where the Reddit price is significantly lower than Jomashop retail.
 *   **Smart Search**: Instant search for specific fragrances or brands with aggregation logic.
-*   **Alert System**: Set alerts for deal thresholds (e.g., "Notify me if Aventus drops 0.5σ below average") or rare items.
+*   **Alert System**: Set alerts for deal thresholds (e.g., "Notify me if Aventus drops 0.5σ below average") or rarer perfumes.
 *   **LLM Data Cleaning**: Uses OpenAI GPT-4o-mini to parse unstructured Reddit listing text into structured JSON.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 *   **Frontend**: Next.js 14, React, Tailwind CSS, Framer Motion (Lucide Icons).
 *   **Backend**: FastAPI (Python), Motor (Async Mongo Driver).
@@ -18,7 +18,7 @@
 *   **AI/ML**: OpenAI API (Data Extraction), Pandas (Statistical Analysis).
 *   **DevOps**: Apache Airflow (Scheduling - *In Progress*).
 
-## 📦 Installation & Setup
+## Installation & Setup
 
 ### Prerequisites
 *   Node.js & npm
@@ -47,7 +47,7 @@ cd frontend
 npm install
 ```
 
-## 🏃‍♂️ Running the Application
+## Running the Application
 
 ### Start the Backend (API)
 Returns JSON data at `http://localhost:8000`.
@@ -62,7 +62,7 @@ cd frontend
 npm run dev
 ```
 
-## 🔄 Data Pipeline
+## Data Pipeline
 1.  **Scrape**: `src/scraping/` scripts fetch data from Reddit.
 2.  **Clean**: `src/scraping/llm_cleaning.py` uses LLM to structure the data.
 3.  **Analyze**: `src/data_preprocessing/clean_and_compare.py` matches Reddit data with Jomashop CSVs.
