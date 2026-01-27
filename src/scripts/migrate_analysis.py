@@ -2,8 +2,13 @@ import pandas as pd
 from pymongo import MongoClient
 import os
 
+from dotenv import load_dotenv
+load_dotenv()
+
 CSV_PATH = 'data/cleaned/price_comparison.csv'
-MONGO_URI = os.getenv('MONGO_URL', 'mongodb+srv://shawnchen456_db_user:Fwu7qm1jlkw2AN1R@cluster0.grvnfcf.mongodb.net/?appName=Cluster0')
+MONGO_URI = os.getenv('MONGO_URL')
+if not MONGO_URI:
+    raise ValueError("MONGO_URL not found in environment variables")
 DB_NAME = 'fragrancetracker'
 COLLECTION_NAME = 'fragrances'
 

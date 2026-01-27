@@ -5,8 +5,13 @@ from openai import OpenAI
 import json
 import time
 
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 # === CONFIG ===
-client = OpenAI(api_key = "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")
+client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 INPUT_CSV = "data/raw/reddit_posts.csv"
 OUTPUT_CSV = "data/cleaned/llm_normalized.csv"
 MAX_RETRIES = 3
