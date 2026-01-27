@@ -21,45 +21,38 @@ export default function Home() {
   };
 
   return (
-    <main className="min-h-screen bg-black text-white relative overflow-hidden selection:bg-indigo-500/30">
-      {/* Background Gradients */}
-      <div className="absolute top-0 left-0 w-full h-full overflow-hidden pointer-events-none">
-        <div className="absolute top-[-10%] left-[-10%] w-[40%] h-[40%] bg-indigo-600/20 rounded-full blur-[120px]" />
-        <div className="absolute bottom-[-10%] right-[-10%] w-[40%] h-[40%] bg-purple-600/20 rounded-full blur-[120px]" />
-      </div>
+    <main className="min-h-screen bg-[#FDFCF8] text-stone-800 relative selection:bg-rose-200 selection:text-rose-900 font-sans">
 
-      <div className="relative z-10 max-w-7xl mx-auto px-6 py-12">
+      <div className="relative z-10 max-w-6xl mx-auto px-6 py-16">
         {/* Header */}
         <motion.div
-          initial={{ opacity: 0, y: -20 }}
+          initial={{ opacity: 0, y: 10 }}
           animate={{ opacity: 1, y: 0 }}
-          className="flex flex-col md:flex-row justify-between items-start md:items-end mb-12 gap-6"
+          className="flex flex-col items-center text-center mb-16 gap-6"
         >
-          <div>
-            <div className="flex items-center gap-2 mb-2">
-              <Sparkles className="text-yellow-400 w-5 h-5" />
-              <span className="text-sm font-medium text-zinc-400 uppercase tracking-widest">Fragrance Tracker</span>
-            </div>
-            <h1 className="text-4xl md:text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-white via-zinc-200 to-zinc-500">
-              Market Intelligence
-            </h1>
-            <p className="mt-2 text-zinc-400 max-w-lg">
-              Real-time price tracking and volatility analysis from Reddit's fragrance community.
-            </p>
+          <div className="flex items-center gap-3 px-4 py-1.5 bg-white border border-stone-200 rounded-full shadow-sm">
+            <Sparkles className="text-stone-400 w-4 h-4" />
+            <span className="text-xs font-semibold text-stone-500 uppercase tracking-[0.2em]">Market Intelligence</span>
           </div>
 
-          <div className="flex gap-4">
+          <h1 className="text-5xl md:text-7xl font-serif font-light text-stone-900 tracking-tight">
+            The Scent <span className="italic font-normal text-stone-500">Index</span>
+          </h1>
+
+          <p className="mt-4 text-stone-500 max-w-lg text-lg leading-relaxed font-light">
+            Curated price tracking from the enthusiast community. Discover deals, analyze volatility, and secure your signature scent.
+          </p>
+
+          <div className="flex gap-4 mt-4">
             <button
               onClick={handleOpenRareAlert}
-              className="px-6 py-3 bg-zinc-900 border border-zinc-700 hover:border-zinc-500 hover:bg-zinc-800 rounded-xl transition-all flex items-center gap-2 shadow-xl"
+              className="px-8 py-3 bg-stone-900 text-white hover:bg-stone-800 rounded-full transition-all flex items-center gap-2 shadow-lg hover:shadow-xl hover:-translate-y-0.5"
             >
-              <Activity className="w-4 h-4 text-pink-500" />
-              <span className="font-medium text-sm">Track Rare Item</span>
+              <Activity className="w-4 h-4 text-emerald-300" />
+              <span className="font-medium">Track Rare Item</span>
             </button>
           </div>
         </motion.div>
-
-        {/* Stats Grid could go here */}
 
         {/* Main Content */}
         <motion.div

@@ -65,20 +65,20 @@ export const AlertModal: React.FC<AlertModalProps> = ({ isOpen, onClose, fragran
     return (
         <AnimatePresence>
             {isOpen && (
-                <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-black/50 backdrop-blur-sm">
+                <div className="fixed inset-0 z-50 flex items-center justify-center p-4 bg-stone-900/20 backdrop-blur-sm">
                     <motion.div
                         initial={{ opacity: 0, scale: 0.95 }}
                         animate={{ opacity: 1, scale: 1 }}
                         exit={{ opacity: 0, scale: 0.95 }}
-                        className="w-full max-w-md overflow-hidden rounded-2xl bg-zinc-900 border border-zinc-800 shadow-2xl"
+                        className="w-full max-w-md overflow-hidden rounded-2xl bg-white shadow-2xl border border-stone-100"
                     >
-                        <div className="p-6">
-                            <div className="flex justify-between items-center mb-6">
-                                <h2 className="text-xl font-bold text-white flex items-center gap-2">
-                                    <Bell className="w-5 h-5 text-indigo-400" />
-                                    {mode === 'DEAL' ? 'Deal Alert' : 'Rare Find Alert'}
+                        <div className="p-8">
+                            <div className="flex justify-between items-center mb-8">
+                                <h2 className="text-xl font-serif font-medium text-stone-800 flex items-center gap-2">
+                                    <Bell className="w-5 h-5 text-stone-400" />
+                                    {mode === 'DEAL' ? 'Set Price Alert' : 'Hunt for Rare Item'}
                                 </h2>
-                                <button onClick={onClose} className="text-zinc-400 hover:text-white transition-colors">
+                                <button onClick={onClose} className="text-stone-400 hover:text-stone-600 transition-colors">
                                     <X className="w-5 h-5" />
                                 </button>
                             </div>
@@ -87,61 +87,65 @@ export const AlertModal: React.FC<AlertModalProps> = ({ isOpen, onClose, fragran
                                 <motion.div
                                     initial={{ opacity: 0, y: 10 }}
                                     animate={{ opacity: 1, y: 0 }}
-                                    className="text-center py-8 text-green-400 font-medium"
+                                    className="text-center py-12"
                                 >
-                                    Alert Created Successfully!
+                                    <div className="w-12 h-12 bg-emerald-50 text-emerald-600 rounded-full flex items-center justify-center mx-auto mb-4">
+                                        <Bell className="w-6 h-6" />
+                                    </div>
+                                    <p className="text-stone-800 font-medium text-lg">Alert Active</p>
+                                    <p className="text-stone-500 text-sm mt-1">We'll verify {mode === 'DEAL' ? 'pricing' : 'availability'} hourly.</p>
                                 </motion.div>
                             ) : (
-                                <form onSubmit={handleSubmit} className="space-y-4">
+                                <form onSubmit={handleSubmit} className="space-y-6">
                                     {!fragrance && (
-                                        <div className="flex gap-2 mb-4 p-1 bg-zinc-800 rounded-lg">
+                                        <div className="flex bg-stone-100 p-1 rounded-lg">
                                             <button
                                                 type="button"
                                                 onClick={() => setMode('DEAL')}
-                                                className={`flex-1 py-1 text-sm rounded-md transition-all ${mode === 'DEAL' ? 'bg-indigo-600 text-white shadow-lg' : 'text-zinc-400 hover:text-white'}`}
+                                                className={`flex-1 py-1.5 text-sm font-medium rounded-md transition-all ${mode === 'DEAL' ? 'bg-white text-stone-800 shadow-sm' : 'text-stone-500 hover:text-stone-700'}`}
                                             >
-                                                Deal Alert
+                                                Deal
                                             </button>
                                             <button
                                                 type="button"
                                                 onClick={() => setMode('RARE')}
-                                                className={`flex-1 py-1 text-sm rounded-md transition-all ${mode === 'RARE' ? 'bg-pink-600 text-white shadow-lg' : 'text-zinc-400 hover:text-white'}`}
+                                                className={`flex-1 py-1.5 text-sm font-medium rounded-md transition-all ${mode === 'RARE' ? 'bg-white text-stone-800 shadow-sm' : 'text-stone-500 hover:text-stone-700'}`}
                                             >
-                                                Rare Find
+                                                Rare
                                             </button>
                                         </div>
                                     )}
 
                                     <div>
-                                        <label className="block text-sm font-medium text-zinc-400 mb-1">Fragrance Name</label>
+                                        <label className="block text-xs font-bold text-stone-400 uppercase tracking-wider mb-2">Target Fragrance</label>
                                         <input
                                             type="text"
                                             value={fragranceName}
                                             onChange={(e) => setFragranceName(e.target.value)}
                                             disabled={!!fragrance}
                                             required
-                                            className="w-full bg-zinc-800 border-zinc-700 rounded-lg px-4 py-2 text-white focus:ring-2 focus:ring-indigo-500 outline-none disabled:opacity-50"
+                                            className="w-full bg-stone-50 border-stone-200 border rounded-xl px-4 py-3 text-stone-800 focus:ring-2 focus:ring-stone-200 focus:border-stone-300 outline-none transition-all disabled:opacity-60 disabled:bg-white"
                                             placeholder="e.g. Aventus"
                                         />
                                     </div>
 
                                     <div>
-                                        <label className="block text-sm font-medium text-zinc-400 mb-1">Email Address</label>
+                                        <label className="block text-xs font-bold text-stone-400 uppercase tracking-wider mb-2">Notification Email</label>
                                         <input
                                             type="email"
                                             value={email}
                                             onChange={(e) => setEmail(e.target.value)}
                                             required
-                                            className="w-full bg-zinc-800 border-zinc-700 rounded-lg px-4 py-2 text-white focus:ring-2 focus:ring-indigo-500 outline-none"
+                                            className="w-full bg-stone-50 border-stone-200 border rounded-xl px-4 py-3 text-stone-800 focus:ring-2 focus:ring-stone-200 focus:border-stone-300 outline-none transition-all"
                                             placeholder="you@example.com"
                                         />
                                     </div>
 
                                     {mode === 'DEAL' && fragrance && (
-                                        <div className="bg-zinc-800/50 p-4 rounded-lg border border-zinc-700/50">
-                                            <div className="flex justify-between text-sm text-zinc-300 mb-2">
-                                                <span>Alert Threshold</span>
-                                                <span className="font-mono text-indigo-400">{thresholdSigma}σ below avg</span>
+                                        <div className="bg-stone-50 p-5 rounded-xl border border-stone-100">
+                                            <div className="flex justify-between text-sm text-stone-600 mb-4">
+                                                <span>Aggressiveness</span>
+                                                <span className="font-semibold text-stone-900">{thresholdSigma}σ deviation</span>
                                             </div>
                                             <input
                                                 type="range"
@@ -150,11 +154,11 @@ export const AlertModal: React.FC<AlertModalProps> = ({ isOpen, onClose, fragran
                                                 step="0.1"
                                                 value={thresholdSigma}
                                                 onChange={(e) => setThresholdSigma(parseFloat(e.target.value))}
-                                                className="w-full h-2 bg-zinc-700 rounded-lg appearance-none cursor-pointer accent-indigo-500"
+                                                className="w-full h-1.5 bg-stone-200 rounded-lg appearance-none cursor-pointer accent-stone-800"
                                             />
-                                            <div className="mt-3 flex justify-between items-center text-xs">
-                                                <span className="text-zinc-500">Normal Price: ${fragrance.weighted_avg_price?.toFixed(2)}</span>
-                                                <span className="flex items-center gap-1 text-green-400 font-bold">
+                                            <div className="mt-4 flex justify-between items-center text-xs">
+                                                <span className="text-stone-400">Market Avg: ${fragrance.weighted_avg_price?.toFixed(0)}</span>
+                                                <span className="flex items-center gap-1 text-emerald-600 font-bold bg-emerald-50 px-2 py-1 rounded">
                                                     Target: ${targetPrice} <Zap className="w-3 h-3" />
                                                 </span>
                                             </div>
@@ -164,9 +168,9 @@ export const AlertModal: React.FC<AlertModalProps> = ({ isOpen, onClose, fragran
                                     <button
                                         type="submit"
                                         disabled={loading}
-                                        className="w-full bg-gradient-to-r from-indigo-600 to-purple-600 hover:from-indigo-500 hover:to-purple-500 text-white font-medium py-2 rounded-lg transition-all shadow-lg shadow-indigo-500/20 disabled:opacity-50"
+                                        className="w-full bg-stone-900 hover:bg-stone-800 text-white font-medium py-3.5 rounded-xl transition-all shadow-lg hover:shadow-xl hover:-translate-y-0.5 disabled:opacity-70 disabled:translate-y-0 disabled:shadow-none"
                                     >
-                                        {loading ? 'Creating...' : 'Create Alert'}
+                                        {loading ? 'Activating...' : 'Activate Alert'}
                                     </button>
                                 </form>
                             )}

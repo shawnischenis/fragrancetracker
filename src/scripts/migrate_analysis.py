@@ -3,7 +3,7 @@ from pymongo import MongoClient
 import os
 
 CSV_PATH = 'data/analysis/reddit_vs_jomashop_analysis.csv'
-MONGO_URI = 'mongodb://localhost:27017/'
+MONGO_URI = os.getenv('MONGO_URL', 'mongodb+srv://shawnchen456_db_user:Fwu7qm1jlkw2AN1R@cluster0.grvnfcf.mongodb.net/?appName=Cluster0')
 DB_NAME = 'fragrancetracker'
 COLLECTION_NAME = 'fragrances'
 
@@ -21,7 +21,9 @@ def migrate():
     records = df.where(pd.notnull(df), None).to_dict(orient='records')
     
     # 3. Connect to Mongo
-    client = MongoClient(MONGO_URI)
+    import certifi
+    ca = certifi.where()
+    client = MongoClient(MONGO_URI, tlsCAFile=ca)
     db = client[DB_NAME]
     collection = db[COLLECTION_NAME]
     

@@ -8,7 +8,8 @@ class Database:
     client: AsyncIOMotorClient = None
     
     def connect(self):
-        self.client = AsyncIOMotorClient(MONGO_URL)
+        import certifi
+        self.client = AsyncIOMotorClient(MONGO_URL, tlsCAFile=certifi.where())
         print("Connected to MongoDB")
         
     def close(self):

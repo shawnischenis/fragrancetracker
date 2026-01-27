@@ -27,8 +27,13 @@ async def get_fragrances(database=Depends(get_database)):
     fragrances = []
     cursor = database["fragrances"].find().sort("weighted_price_diff", 1) # Good deals first (negative diff)
     async for document in cursor:
-        # Mongo _id is ObjectId, generic pydantic doesn't like it unless converted
-        document.pop("_id", None) 
+        document.pop("_id", None)
+        
+        # Sanitize NaNs which break Pydantic/JSON
+        for k, v in document.items():
+            if isinstance(v, float) and v != v: # Check for NaN
+                document[k] = None
+                
         fragrances.append(document)
     return fragrances
 
