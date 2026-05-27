@@ -6,11 +6,22 @@ import { AlertModal } from '../components/AlertModal';
 import { Sparkles, Activity } from 'lucide-react';
 import { motion } from 'framer-motion';
 
+interface Fragrance {
+  reddit_name: string;
+  brand?: string;
+  weighted_avg_price?: number;
+  weighted_std_dev?: number;
+  listing_count?: number;
+  jomashop_price?: number;
+  jomashop_url?: string;
+  weighted_price_diff?: number;
+}
+
 export default function Home() {
   const [isModalOpen, setIsModalOpen] = useState(false);
-  const [selectedFragrance, setSelectedFragrance] = useState<any>(null);
+  const [selectedFragrance, setSelectedFragrance] = useState<Fragrance | null>(null);
 
-  const handleOpenAlert = (fragrance: any) => {
+  const handleOpenAlert = (fragrance: Fragrance) => {
     setSelectedFragrance(fragrance);
     setIsModalOpen(true);
   };

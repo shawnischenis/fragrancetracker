@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import axios from 'axios';
 import { motion, AnimatePresence } from 'framer-motion';
-import { Search, ChevronDown, Bell, TrendingUp, Droplet, ExternalLink } from 'lucide-react';
+import { Search, Bell, TrendingUp, ExternalLink } from 'lucide-react';
 
 interface Fragrance {
     reddit_name: string;
@@ -250,7 +250,7 @@ export const FragranceTable: React.FC<FragranceTableProps> = ({ onOpenAlert }) =
                     </tbody>
                 </table>
                 {!loading && filteredFragrances.length === 0 && (
-                    <div className="p-12 text-center text-stone-400">No fragrances found matching "{searchTerm}".</div>
+                    <div className="p-12 text-center text-stone-400">No fragrances found matching &quot;{searchTerm}&quot;.</div>
                 )}
             </div>
         </div>

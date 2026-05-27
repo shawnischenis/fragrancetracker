@@ -6,7 +6,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 CSV_PATH = 'data/cleaned/price_comparison.csv'
-MONGO_URI = os.getenv('MONGO_URL')
+MONGO_URI = os.getenv('MONGO_URL') or os.getenv('mongo_URL')
 if not MONGO_URI:
     raise ValueError("MONGO_URL not found in environment variables")
 DB_NAME = 'fragrancetracker'
@@ -26,9 +26,12 @@ def migrate():
     records = df.where(pd.notnull(df), None).to_dict(orient='records')
     
     # 3. Connect to Mongo
-    import certifi
-    ca = certifi.where()
-    client = MongoClient(MONGO_URI, tlsCAFile=ca)
+    options = {}
+    if MONGO_URI.startswith("mongodb+srv://") or os.getenv("MONGO_TLS") == "true":
+        import certifi
+
+        options["tlsCAFile"] = certifi.where()
+    client = MongoClient(MONGO_URI, **options)
     db = client[DB_NAME]
     collection = db[COLLECTION_NAME]
     

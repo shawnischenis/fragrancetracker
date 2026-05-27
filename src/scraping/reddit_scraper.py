@@ -1,12 +1,24 @@
 import praw
 import pandas as pd
 import time
+import os
+
+from dotenv import load_dotenv
+
+load_dotenv()
 
 def scrape_reddit(limit=1000):
+    client_id = os.getenv("REDDIT_CLIENT_ID")
+    client_secret = os.getenv("REDDIT_CLIENT_SECRET")
+    user_agent = os.getenv("REDDIT_USER_AGENT", "fragrancetracker")
+
+    if not client_id or not client_secret:
+        raise ValueError("REDDIT_CLIENT_ID and REDDIT_CLIENT_SECRET must be set")
+
     reddit = praw.Reddit(
-        client_id="EpiBq-Xw-pL3P5Pz1pj9yQ",
-        client_secret="LL4dU5l7Bmc9djHGUZ5ZuMb00IOWLw",
-        user_agent="frag_shopper"
+        client_id=client_id,
+        client_secret=client_secret,
+        user_agent=user_agent,
     )
 
     posts = []

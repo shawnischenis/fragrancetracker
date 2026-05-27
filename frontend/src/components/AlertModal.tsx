@@ -93,7 +93,7 @@ export const AlertModal: React.FC<AlertModalProps> = ({ isOpen, onClose, fragran
                                         <Bell className="w-6 h-6" />
                                     </div>
                                     <p className="text-stone-800 font-medium text-lg">Alert Active</p>
-                                    <p className="text-stone-500 text-sm mt-1">We'll verify {mode === 'DEAL' ? 'pricing' : 'availability'} hourly.</p>
+                                    <p className="text-stone-500 text-sm mt-1">We&apos;ll verify {mode === 'DEAL' ? 'pricing' : 'availability'} hourly.</p>
                                 </motion.div>
                             ) : (
                                 <form onSubmit={handleSubmit} className="space-y-6">

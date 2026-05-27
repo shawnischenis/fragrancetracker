@@ -1,15 +1,40 @@
 from motor.motor_asyncio import AsyncIOMotorClient
 import os
+from pymongo.errors import PyMongoError
 
-MONGO_URL = os.getenv("MONGO_URL", "mongodb://localhost:27017")
+from dotenv import load_dotenv
+
+load_dotenv()
+
+MONGO_URL = os.getenv("MONGO_URL") or os.getenv("mongo_URL") or "mongodb://localhost:27017"
 DB_NAME = "fragrancetracker"
 
 class Database:
     client: AsyncIOMotorClient = None
     
-    def connect(self):
+    async def connect(self):
         import certifi
-        self.client = AsyncIOMotorClient(MONGO_URL, tlsCAFile=certifi.where())
+
+        options = {
+            "serverSelectionTimeoutMS": 5000,
+            "connectTimeoutMS": 5000,
+            "socketTimeoutMS": 5000,
+        }
+        if MONGO_URL.startswith("mongodb+srv://") or os.getenv("MONGO_TLS") == "true":
+            options["tlsCAFile"] = certifi.where()
+
+        self.client = AsyncIOMotorClient(MONGO_URL, **options)
+        try:
+            await self.client.admin.command("ping")
+        except PyMongoError as exc:
+            message = str(exc)
+            if "SSL handshake failed" in message or "TLSV1_ALERT_INTERNAL_ERROR" in message:
+                raise RuntimeError(
+                    "MongoDB TLS handshake failed. If this is MongoDB Atlas, check that "
+                    "the cluster is active and your current IP is allowed in Atlas "
+                    "Network Access."
+                ) from exc
+            raise
         print("Connected to MongoDB")
         
     def close(self):

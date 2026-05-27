@@ -7,7 +7,7 @@ from contextlib import asynccontextmanager
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    db.connect()
+    await db.connect()
     yield
     db.close()
 
@@ -39,7 +39,11 @@ async def get_fragrances(database=Depends(get_database)):
 
 @app.post("/api/alerts", response_model=Alert)
 async def create_alert(alert: AlertCreate, database=Depends(get_database)):
-    new_alert = alert.dict()
+    from datetime import datetime
+
+    new_alert = alert.model_dump()
+    new_alert["created_at"] = datetime.utcnow()
+    new_alert["active"] = True
     result = await database["alerts"].insert_one(new_alert)
     new_alert["_id"] = str(result.inserted_id)
     return new_alert

@@ -31,6 +31,10 @@ Create a `.env` file in the root directory:
 ```bash
 OPENAI_API_KEY="sk-..."
 MONGO_URL="mongodb+srv://<user>:<password>@cluster0.net/..."
+REDDIT_CLIENT_ID="..."
+REDDIT_CLIENT_SECRET="..."
+REDDIT_USER_AGENT="fragrancetracker"
+OPENAI_CLEANING_MODEL="o4-mini"
 ```
 
 ### 2. Backend Setup
@@ -67,6 +71,28 @@ npm run dev
 2.  **Clean**: `src/scraping/llm_cleaning.py` uses LLM to structure the data.
 3.  **Analyze**: `src/data_preprocessing/clean_and_compare.py` matches Reddit data with Jomashop CSVs.
 4.  **Migrate**: `src/scripts/migrate_analysis.py` pushes the final dataset to MongoDB.
+
+### Airflow Reddit Scrape
+The Airflow DAG at `dags/fragrance_dag.py` scrapes the 10 most recent r/fragranceswap posts, cleans each post with `o4-mini`, upserts data into MongoDB collections `reddit_posts` and `reddit_listings`, then evaluates saved alerts.
+
+Default schedule: every 3 hours.
+
+Optional environment overrides:
+```bash
+REDDIT_SCRAPE_LIMIT=10
+REDDIT_SCRAPE_SCHEDULE="0 */3 * * *"  # every 3 hours
+# REDDIT_SCRAPE_SCHEDULE="0 * * * *"  # hourly
+REDDIT_POSTS_COLLECTION="reddit_posts"
+REDDIT_LISTINGS_COLLECTION="reddit_listings"
+ALERT_EVENTS_COLLECTION="alert_events"
+OPENAI_CLEANING_MODEL="o4-mini"
+```
+
+Alert flow:
+1. The frontend creates records in MongoDB collection `alerts`.
+2. The Airflow scrape task writes cleaned listings to `reddit_listings`.
+3. The Airflow alert task matches active alerts against listings and writes deduped matches to `alert_events`.
+4. Email/SMS delivery can be added by sending unsent `alert_events` where `notified_at` is null.
 
 ---
 *Status: Work in Progress (Phase 2 Complete)*

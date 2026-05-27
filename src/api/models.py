@@ -26,3 +26,4 @@ class AlertCreate(AlertBase):
 class Alert(AlertBase):
     id: str = Field(..., alias="_id")
     created_at: datetime = Field(default_factory=datetime.utcnow)
+    active: bool = True

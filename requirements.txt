@@ -1,0 +1,9 @@
+certifi
+fastapi
+motor
+openai
+pandas
+praw
+pymongo
+python-dotenv
+uvicorn
